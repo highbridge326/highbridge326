@@ -1,6 +1,8 @@
 ## Hello 🌏 I'm Mitsuru Takahashi  
 - 😎 Engineer living in Kyoto, Japan.
 
+<br />
+
 ## ♥️ Favorite
 [![Typescript](https://img.shields.io/badge/-Typescript-ffffff?style=for-the-badge&labelColor=3178c6&logoColor=ffffff&color=f5f5f5&logo=typescript)](https://www.typescriptlang.org/)
 [![Solidity](https://img.shields.io/badge/-Solidity-ffffff?style=for-the-badge&labelColor=363636&logoColor=ffffff&color=f5f5f5&logo=solidity)](https://soliditylang.org/)
@@ -14,8 +16,12 @@
 [![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&labelColor=2496ED&logoColor=ffffff&color=f5f5f5&logo=docker)](https://docs.docker.com/)
 [![Serverless](https://img.shields.io/badge/-Serverless-ffffff?style=for-the-badge&labelColor=FD5750&logoColor=ffffff&color=f5f5f5&logo=serverless)](https://www.serverless.com/)
 
+<br />
+
 ## ✉️ Contact
 🏠 https://mitsuru-takahashi.net/contact
+
+<br />
 
 ## ✨ Status
 <!-- リポジトリステータス -->
