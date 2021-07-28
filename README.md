@@ -2,12 +2,14 @@
 - 😎 Engineer living in Kyoto, Japan.
 
 ## ♥️ Favorite
+[![Typescript](https://img.shields.io/badge/-Typescript-ffffff?style=for-the-badge&labelColor=3178c6&logoColor=ffffff&color=f5f5f5&logo=typescript)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&labelColor=3776AB&logoColor=ffffff&color=f5f5f5&logo=python)](https://www.python.org/)
+[![Solidity](https://img.shields.io/badge/-Solidity-ffffff?style=for-the-badge&labelColor=000000&logoColor=ffffff&color=f5f5f5&logo=solidity)](https://soliditylang.org/)
 
 [![Gatsby.js](https://img.shields.io/badge/-gatsby.js-ffffff?style=for-the-badge&labelColor=663399&logoColor=ffffff&color=f5f5f5&logo=gatsby)](https://www.gatsbyjs.com/)
 
 ## ✉️ Contact
-🏠 https://mitsuru-takahashi.net/contact
+🏠 https://www.mitsuru-takahashi.net/contact
 
 ## ✨ Status
 <!-- リポジトリステータス -->
