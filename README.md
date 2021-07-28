@@ -12,6 +12,7 @@
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-ffffff?style=for-the-badge&labelColor=00C58E&logoColor=ffffff&color=f5f5f5&logo=nuxt.js)](https://ja.nuxtjs.org/)
 
 [![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&labelColor=2496ED&logoColor=ffffff&color=f5f5f5&logo=docker)](https://docs.docker.com/)
+[![Serverless](https://img.shields.io/badge/-Serverless-ffffff?style=for-the-badge&labelColor=FD5750&logoColor=ffffff&color=f5f5f5&logo=serverless)](https://www.serverless.com/)
 
 ## ✉️ Contact
 🏠 https://mitsuru-takahashi.net/contact
