@@ -1,6 +1,11 @@
 ## Hello 🌏 I'm Mitsuru Takahashi  
 - 😎 Engineer living in Kyoto, Japan.
 
+## ♥️ Favorite
+[![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&labelColor=3776AB&logoColor=ffffff&color=f5f5f5&logo=python)](https://www.python.org/)
+
+[![Gatsby.js](https://img.shields.io/badge/-gatsby.js-ffffff?style=for-the-badge&labelColor=663399&logoColor=ffffff&color=f5f5f5&logo=gatsby)](https://www.gatsbyjs.com/)
+
 ## ✉️ Contact
 🏠 https://mitsuru-takahashi.net/contact
 
