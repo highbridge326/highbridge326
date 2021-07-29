@@ -1,5 +1,6 @@
 ## Hello 🌏 I'm Mitsuru Takahashi  
-- 😎 Engineer living in Kyoto, Japan.
+- 🏠 [Engineer living in Kyoto, Japan](https://mitsuru-takahashi.net/about)
+- 🦊 [Gitlab @takahashimitsuru](https://gitlab.com/takahashimitsuru)
 
 <br />
 
@@ -19,7 +20,7 @@
 <br />
 
 ## ✉️ Contact
-🏠 https://mitsuru-takahashi.net/contact
+https://mitsuru-takahashi.net/contact
 
 <br />
 
